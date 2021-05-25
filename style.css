@@ -1,0 +1,25 @@
+table{
+    font-family : Helvetica, sans-serif;
+    border-collapse: collapse;
+    border-width: 1px;
+    border-style: solid;
+    border-color:palevioletred ;
+
+}
+
+th {
+    font-weight: 800; 
+    background-color:#bf00ff;
+    color           :white;
+    font-style: italic;
+}th, td {
+    padding: 10px;
+  }
+  h1{
+      padding-block-end: left;
+  }
+    
+  
+  
+
+  
